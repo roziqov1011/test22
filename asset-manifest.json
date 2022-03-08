@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fecb8c3.css",
+    "main.js": "/static/js/main.a60709c3.js",
+    "static/media/01.jpg": "/static/media/01.01c5b2e1257a2c521eef.jpg",
+    "static/media/mb.png": "/static/media/mb.69f986e0cd3a5165220c.png",
+    "static/media/ishonch.png": "/static/media/ishonch.ba5b91b6239c685e8c53.png",
+    "static/media/hs.png": "/static/media/hs.712a0b27ddfbbe86d4cc.png",
+    "static/media/logo2.png": "/static/media/logo2.f894ff33da47617804d5.png",
+    "index.html": "/index.html",
+    "main.3fecb8c3.css.map": "/static/css/main.3fecb8c3.css.map",
+    "main.a60709c3.js.map": "/static/js/main.a60709c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fecb8c3.css",
+    "static/js/main.a60709c3.js"
+  ]
+}
